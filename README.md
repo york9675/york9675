@@ -1,4 +1,3 @@
 - 👋 Hi, I’m [@york9675](https://github.com/york9675)
 - 👀 I’m interested in **Computer,Plane,Code,DJ,Music**
 - 🌱 I’m currently learning `C++`, `Python`
-- ✅ And welcome to join my Discord server: [ℙ𝕦𝕣𝕤𝕦𝕚𝕥 𝕠𝕗 𝕊𝕡𝕖𝕖𝕕](https://discord.gg/gASqnJYCWc)
