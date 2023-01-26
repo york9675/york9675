@@ -1,8 +1,8 @@
 ## 中文
 - 👋 嗨嗨！ 我是[York](https://github.com/york9675)
-- 👀 我對 **電腦,飛機,DJ,音樂** 有興趣
+- 👀 我對 **電腦,飛機,DJ,音樂** 有興趣(吧...?
 - 🌱 我目前正在學 `C++`, `Python`, `JavaScript`
-- 🤖 Discord驗證機器人[免費抽獎](https://www.fgbot.live)開發者
+- 🤖 Discord驗證機器人[免費抽獎](https://www.fgbot.live)開發者 (原始碼沒在這裡公開喔)
 
 ## English
 - 👋 Hi, I’m [York](https://github.com/york9675)
