@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm York</h1>
-<h3 align="center">A Discord verified bot developer from Taiwan</h3>
+<h3 align="center">A Discord verified bot developer from Taiwan :taiwan:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=york9675&label=Profile%20views&color=0e75b6&style=flat" alt="york9675" /> </p>
 
@@ -7,7 +7,7 @@
 
 - :telescope: I’m currently working on [Discord bot](https://www.fgbot.net/)
 
-- :eyes: I’m interested in **Computer,Plane,Code,DJ,Music**
+- :eyes: I’m interested in **Computer, Aviation, Music, Make cool stuff**
 
 - :seedling: I’m currently learning `C++`, `Python`, `JavaScript`
 
