@@ -1,34 +1,30 @@
-## 中文
-- 👋 嗨嗨！ 我是[York](https://github.com/york9675)
-- 👀 我對 **電腦,飛機,DJ,音樂** 有興趣(吧...?
-- 🌱 我目前正在學 `C++`, `Python`, `JavaScript`
-- 🤖 Discord驗證機器人[免費抽獎](https://www.fgbot.live)開發者 (原始碼沒在這裡公開喔)
+<h1 align="center">Hi :wave:, I'm York</h1>
+<h3 align="center">A Discord verified bot developer from Taiwan</h3>
 
-## English
-- 👋 Hi, I’m [York](https://github.com/york9675)
-- 👀 I’m interested in **Computer,Plane,Code,DJ,Music**
-- 🌱 I’m currently learning `C++`, `Python`, `JavaScript`
-- 🤖 Discord verified bot developer => [Free Giveaway](https://www.fgbot.live)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=york9675&label=Profile%20views&color=0e75b6&style=flat" alt="york9675" /> </p>
 
-### 程式語言 | Languages
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=york9675" alt="york9675" /></a> </p>
 
+- :telescope: I’m currently working on [Discord bot](https://www.fgbot.net/)
+
+- :eyes: I’m interested in **Computer,Plane,Code,DJ,Music**
+
+- :seedling: I’m currently learning `C++`, `Python`, `JavaScript`
+
+- :mailbox: How to reach me: **https://discord.com/users/571310191807692821**
+
+- :zap: Fun fact: **I MAKE MUSIC.**
+
+### Connect with me:
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://discord.com/users/571310191807692821" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="40" /></a>
+<a href="https://www.github.com/york9675" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
+<a href="https://codepen.io/york0524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="york0524" height="30" width="40" /></a>
+<a href="https://dev.to/york0524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="york0524" height="30" width="40" /></a>
 </p>
 
-### 社交連結 | Socials
+### Languages and Tools:
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://discord.com/users/571310191807692821" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/york9675" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### 標章 | Badges
-
-<b>GitHub狀態 | My GitHub Stats</b>
-
-<a href="http://www.github.com/york9675"><img src="https://github-readme-stats.vercel.app/api?username=york9675&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="york9675's GitHub stats | 狀態" /></a>
-
-<a href="http://www.github.com/york9675"><img src="https://github-readme-streak-stats.herokuapp.com/?user=york9675&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/york9675"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=york9675&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph | 圖表" /></a>
+### Support:
+<p><a href="https://www.buymeacoffee.com/york0524"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="york0524" /></a></p><br><br>
