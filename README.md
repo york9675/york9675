@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=york9675" alt="york9675" /></a> </p>
 
-- :telescope: I’m currently working on [Discord bot](https://www.fgbot.net/)
+- :telescope: I’m currently working on [Discord bot](https://york9675.github.io/website/)
 
 - :eyes: I’m interested in **Computer, Aviation, Music, Make cool stuff**
 
