@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=york9675" alt="york9675" /></a> </p>
 
-- :telescope: I’m currently working on [Discord bot](https://york9675.github.io/website/)
+- 🔭 I’m currently working on [Discord bot](https://york9675.github.io/website/)
 
-- :eyes: I’m interested in **Computer, Aviation, Music, Make cool stuff**
+- 👀 I’m interested in **Computer, Aviation, Music**......
 
-- :seedling: I’m currently learning `C++`, `Python`, `JavaScript`
-
-- :mailbox: How to reach me: **https://discord.com/users/571310191807692821**
-
-- :zap: Fun fact: **I MAKE MUSIC.**
+- 🌱 I’m currently learning `C++`, `Python`, `JavaScript`
 
 ### Connect with me:
 <p align="left">
