@@ -1,22 +1,20 @@
 <h1 align="center">Hi :wave:, I'm York</h1>
-<h3 align="center">A Discord verified bot developer from Taiwan :taiwan:</h3>
+<h3 align="center">Developer from Taiwan :taiwan:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=york9675&label=Profile%20views&color=0e75b6&style=flat" alt="york9675" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=york9675" alt="york9675" /></a> </p>
 
-- 🔭 I’m currently working on [Discord bot](https://york9675.github.io/website/)
+- 🔭 I’m currently working on [FlexNote](https://york9675.github.io/flexnote/), [Discord bot](https://york9675.github.io/website/)
 
 - 👀 I’m interested in **Computer, Aviation, Music**......
 
-- 🌱 I’m currently learning `C++`, `Python`, `JavaScript`
+- 🌱 I’m currently learning `Python`, `C++`, `JavaScript`
 
 ### Connect with me:
 <p align="left">
 <a href="https://discord.com/users/571310191807692821" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="40" /></a>
 <a href="https://www.github.com/york9675" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
-<a href="https://codepen.io/york0524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="york0524" height="30" width="40" /></a>
-<a href="https://dev.to/york0524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="york0524" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
