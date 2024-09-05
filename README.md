@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=york9675" alt="york9675" /></a> </p>
 
-- 🔭 I’m currently working on [FlexNote](https://york9675.github.io/flexnote/), [Discord bot](https://york9675.github.io/website/), iOS Applications, Websites
+- 🔭 I’m currently working on [YorkNotify](https://github.com/york9675/YorkNotify), [FlexNote](https://york9675.github.io/flexnote/), [Discord bot](https://york9675.github.io/website/), Websites, ...
 
 - 👀 I’m interested in **Computer, Aviation, Music**......
 
