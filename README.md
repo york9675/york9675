@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=york9675" alt="york9675" /></a> </p>
 
-- 🔭 I’m currently working on [YorkNotify](https://github.com/york9675/YorkNotify), [FlexNote](https://york9675.github.io/flexnote/), [Discord bot](https://york9675.github.io/website/), Websites, ...
+- 🔭 Check out [YorkNotify](https://github.com/york9675/YorkNotify)!
 
-- 👀 I’m interested in **Computer, Aviation, Music**......
-
-- 🌱 I’m currently learning `Swift`, `Python`, `C++`, `JavaScript`
+When I started developing apps, I had a simple yet sincere goal: to create something genuinely helpful, and to offer it for free. In a world dominated by paid features and ads, I wanted to build tools that anyone could use without any cost, purely to make life more convenient. My apps have been ad-free, and some, are even open-source. I’ve always believed that even if my apps help just a small group of people, making their lives easier or more efficient, it would all be worth it.
 
 ### Connect with me:
 <p align="left">
