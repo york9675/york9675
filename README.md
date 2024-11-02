@@ -15,6 +15,8 @@
 
 I’m a hobby developer with a passion for building useful, accessible apps. My goal is to create tools that are free of ads, open-source, and genuinely helpful. I believe that even small apps can make a difference if they improve people's daily lives.
 
+---
+
 ### Featured Project: YorkNotify
 
 [![YorkNotify](https://img.shields.io/badge/YorkNotify-iOS%20App-0e75b6?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/york9675/YorkNotify)
@@ -28,12 +30,18 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 [View YorkNotify on GitHub](https://github.com/york9675/YorkNotify)
 
+---
+
 ### Languages and Tools
 
 <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
 ### Operating Systems
