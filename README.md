@@ -19,7 +19,7 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 [![YorkNotify](https://img.shields.io/badge/YorkNotify-iOS%20App-0e75b6?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/york9675/YorkNotify)
 
-**YorkNotify** is my proudest project- a fully-featured, beautifully designed iOS app that makes scheduling notifications incredibly easy. Here’s why it’s worth checking out:
+**YorkNotify** is a fully-featured, beautifully designed iOS app that makes scheduling notifications incredibly easy. Here’s why it’s worth checking out:
 
 - 📅 **Schedule Notifications**: Plan and receive reminders exactly when you need them.
 - 🎨 **Beautiful Interface**: Designed with SwiftUI, giving it a smooth, modern feel.
@@ -54,7 +54,6 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=york9675&show_icons=true&theme=radical" alt="York's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=york9675&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### Support
