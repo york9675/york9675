@@ -1,5 +1,7 @@
+![Banner](./York.png)
+
 <h1 align="center">Hi 👋, I'm York</h1>
-<h3 align="center">Developer from Taiwan 🇹🇼</h3>
+<h3 align="center">Developer from Taiwan</h3>
 
 [![york9675](https://komarev.com/ghpvc/?username=york9675&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/york9675/)
 
