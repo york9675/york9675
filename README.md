@@ -7,13 +7,19 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=york9675&theme=onedark" alt="GitHub Trophies" />
+        <img src="https://trophy.ryglcloud.net/?username=york9675&theme=onedark" alt="GitHub Trophies" />
     </a>
 </p>
 
 ### About Me
 
 I’m a hobby developer with a passion for building useful, accessible apps. My goal is to create tools that are free of ads, open-source, and genuinely helpful. I believe that even small apps can make a difference if they improve people's daily lives.
+
+#### Links
+
+- [Profile](https://york.qzz.io)
+
+- [York Development](https://york9675.github.io/website/)
 
 ---
 
@@ -39,9 +45,7 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 ### GitHub Stats
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=york9675&show_icons=true&theme=radical" alt="York's GitHub Stats" />
-</p>
+![Stats](./profile/stats.svg)
 
 ### Support
 
