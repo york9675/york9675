@@ -31,7 +31,7 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 ---
 
-### Languages and Tools
+### Languages
 
 <p align="left">
     <a href="https://nodejs.org/" target="_blank">
@@ -39,6 +39,9 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     </a>
     <a href="https://www.swift.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
@@ -52,9 +55,6 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
     <a href="https://isocpp.org/" target="_blank">
         <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-    </a>
 </p>
 
 ### Operating Systems
@@ -67,7 +67,7 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
         <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Linux"/>
     </a>
     <a href="https://www.microsoft.com/windows/" target="_blank">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" alt="Windows"/>
     </a>
 </p>
 
