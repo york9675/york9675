@@ -63,11 +63,11 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
     <a href="https://www.apple.com/macos/" target="_blank">
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
     </a>
-    <a href="https://www.debian.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Linux"/>
-    </a>
     <a href="https://www.microsoft.com/windows/" target="_blank">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" alt="Windows"/>
+    </a>
+    <a href="https://www.debian.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Linux"/>
     </a>
 </p>
 
@@ -75,7 +75,7 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 [![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Snake](https://github.com/york9675/york9675/blob/output/snake.svg)](https://github.com/Platane/snk)
+[![Snake](https://raw.githubusercontent.com/york9675/york9675/output/snake.svg)](https://github.com/Platane/snk)
 
 ### Support
 
