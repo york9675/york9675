@@ -55,6 +55,9 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
     <a href="https://isocpp.org/" target="_blank">
         <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </a>
 </p>
 
 ### Operating Systems
