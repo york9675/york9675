@@ -1,0 +1,46 @@
+name: Update Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs at 00:00 and 12:00 UTC
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1. Generate Stats Card (Saved to the root of the runner)
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Generate Snake (Saved to the root of the runner)
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Deploy ONLY the SVGs to the 'output' branch
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: output
+          destination_dir: ./
+          # Keeps the output branch clean by excluding source code
+          exclude_assets: '.github,README.md'

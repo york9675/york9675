@@ -76,9 +76,9 @@ I’m a hobby developer with a passion for building useful, accessible apps. My 
 
 ### GitHub Stats
 
-[![Stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://raw.githubusercontent.com/york9675/york9675/output/stats.svg)
 
-[![Snake](https://raw.githubusercontent.com/york9675/york9675/output/snake.svg)](https://github.com/Platane/snk)
+![Snake](https://raw.githubusercontent.com/york9675/york9675/output/snake.svg)
 
 ### Support
 
