@@ -10,7 +10,7 @@
     </a>
     <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://trophy.ryglcloud.net/?username=york9675&theme=onedark" alt="GitHub Trophies" />
+        <img src="https://trophy.benkou.dev/?username=york9675&theme=onedark" alt="GitHub Trophies" />
     </a>
 </h1>
 
