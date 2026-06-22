@@ -16,20 +16,18 @@
 
 ### About Me
 
-I’m a hobby developer with a passion for building useful, accessible apps. My goal is to create tools that are free of ads, open-source, and genuinely helpful. I believe that even small apps can make a difference if they improve people's daily lives.
+I’m a hobby developer passionate about building apps and contributing to open-source projects.
 
 ### Links
 <p align="left">
   <a href="https://york.qzz.io">
-    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%97_Profile-000000?style=for-the-badge&logo=&logoColor=white" />
   </a>
   <br>
   <a href="https://york9675.github.io/website/">
-    <img src="https://img.shields.io/badge/York&nbsp;Development-3C3327?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%97_York_Development-3C3327?style=for-the-badge" />
   </a>
 </p>
-
----
 
 ### Languages
 
