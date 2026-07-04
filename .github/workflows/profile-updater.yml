@@ -17,10 +17,10 @@ jobs:
 
       # 1. Generate Stats Card (Saved to the root of the runner)
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=github_dark_dimmed
           path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

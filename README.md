@@ -88,13 +88,13 @@ I’m a hobby developer passionate about building apps and contributing to open-
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
     <img src="https://raw.githubusercontent.com/york9675/york9675/output/stats.svg" alt="Stats" />
 </a>
 
 <br>
 
-<a href="https://github.com/aumnansh/snk" target="_blank">
+<a href="https://github.com/Platane/snk/" target="_blank">
     <img src="https://raw.githubusercontent.com/york9675/york9675/output/snake.svg" alt="Snake" />
 </a>
 
