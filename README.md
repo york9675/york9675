@@ -14,11 +14,11 @@
     </a>
 </h1>
 
-### About Me
+## About Me
 
 I’m a hobby developer passionate about building apps and contributing to open-source projects.
 
-### Links
+## Links
 <p align="left">
   <a href="https://york.qzz.io">
     <img src="https://img.shields.io/badge/%F0%9F%94%97_Profile-000000?style=for-the-badge&logo=&logoColor=white" />
@@ -29,8 +29,9 @@ I’m a hobby developer passionate about building apps and contributing to open-
   </a>
 </p>
 
-### Languages
+## Experience / Learning
 
+### Languages
 <p align="left">
     <a href="https://nodejs.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -58,7 +59,20 @@ I’m a hobby developer passionate about building apps and contributing to open-
     </a>
 </p>
 
-### Operating Systems
+### Frameworks
+<p align="left">
+    <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
+        <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=F05138" alt="SwiftUI"/>
+    </a>
+    <a href="https://www.electronjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+    </a>
+    <a href="https://astro.build/" target="_blank">
+        <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+    </a>
+</p>
+
+## Operating Systems
 
 <p align="left">
     <a href="https://www.apple.com/macos/" target="_blank">
@@ -72,13 +86,19 @@ I’m a hobby developer passionate about building apps and contributing to open-
     </a>
 </p>
 
-### GitHub Stats
+## GitHub Stats
 
-![Stats](https://raw.githubusercontent.com/york9675/york9675/output/stats.svg)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://raw.githubusercontent.com/york9675/york9675/output/stats.svg" alt="Stats" />
+</a>
 
-![Snake](https://raw.githubusercontent.com/york9675/york9675/output/snake.svg)
+<br>
 
-### Support
+<a href="https://github.com/aumnansh/snk" target="_blank">
+    <img src="https://raw.githubusercontent.com/york9675/york9675/output/snake.svg" alt="Snake" />
+</a>
+
+## Support
 
 If you find my work helpful and would like to support me, you can buy me a coffee! Your support helps me keep my projects alive and ad-free.
 
