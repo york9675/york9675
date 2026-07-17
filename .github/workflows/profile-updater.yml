@@ -34,7 +34,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Deploy ONLY the SVGs to the 'output' branch
+      # 3. Generate trophy (Saved to the root of the runner)
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          file: trophy.svg
+          theme: onedark
+
+      # 4. Deploy ONLY the SVGs to the 'output' branch
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
