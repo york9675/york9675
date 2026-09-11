@@ -100,8 +100,4 @@ I’m a hobby developer passionate about building apps and contributing to open-
 
 ## Support
 
-If you find my work helpful and would like to support me, you can buy me a coffee! Your support helps me keep my projects alive and ad-free.
-
-<p><a href="https://www.buymeacoffee.com/york0524"> 
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-</a></p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q4T226QWSQ)
