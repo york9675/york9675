@@ -69,6 +69,16 @@ I’m a hobby developer passionate about building apps and contributing to open-
     </a>
 </p>
 
+### Databases
+<p align="left">
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </a>
+</p>
+
 ### Cloud / Infrastructure
 <p align="left">
     <a href="https://aws.amazon.com/" target="_blank">
@@ -114,3 +124,4 @@ I’m a hobby developer passionate about building apps and contributing to open-
 ## Support
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q4T226QWSQ)
+
