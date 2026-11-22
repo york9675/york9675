@@ -72,17 +72,33 @@ I’m a hobby developer passionate about building apps and contributing to open-
     </a>
 </p>
 
+### Cloud / Infrastructure
+<p align="left">
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge" alt="Amazon Web Services"/>
+    </a>
+    <a href="https://www.cloudflare.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+    </a>
+</p>
+
 ## Operating Systems
 
 <p align="left">
     <a href="https://www.apple.com/macos/" target="_blank">
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
     </a>
+    <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    </a>
     <a href="https://www.microsoft.com/windows/" target="_blank">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" alt="Windows"/>
     </a>
     <a href="https://www.debian.org/" target="_blank">
         <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Linux"/>
+    </a>
+    <a href="https://rockylinux.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux"/>
     </a>
 </p>
 
