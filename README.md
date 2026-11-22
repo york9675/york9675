@@ -33,9 +33,6 @@ I’m a hobby developer passionate about building apps and contributing to open-
 
 ### Languages
 <p align="left">
-    <a href="https://nodejs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
@@ -48,14 +45,14 @@ I’m a hobby developer passionate about building apps and contributing to open-
     <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </a>
+    <a href="https://www.java.com" target="_blank">
+        <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    </a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     </a>
     <a href="https://isocpp.org/" target="_blank">
         <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     </a>
 </p>
 
@@ -91,11 +88,11 @@ I’m a hobby developer passionate about building apps and contributing to open-
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
     </a>
-    <a href="https://www.microsoft.com/windows/" target="_blank">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" alt="Windows"/>
-    </a>
     <a href="https://www.debian.org/" target="_blank">
         <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Linux"/>
+    </a>
+    <a href="https://www.microsoft.com/windows/" target="_blank">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white" alt="Windows"/>
     </a>
     <a href="https://rockylinux.org/" target="_blank">
         <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" alt="Rocky Linux"/>
